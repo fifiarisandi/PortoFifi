@@ -140,7 +140,7 @@ Although I found several step-by-step guides, I still found the process confusin
 
 I copied and pasted one of the suggested commands into the AI agent. The agent successfully committed my changes, but it was unable to push them to the GitHub remote repository.
 
-To complete the process, I manually clicked the 'Push' button in the Source Control panel inside Cursor, and the push was completed successfully.
+To complete the process, I manually clicked the 'Sync Changes' button in the Source Control panel inside Cursor, and the push was completed successfully.
 
 ---
 
