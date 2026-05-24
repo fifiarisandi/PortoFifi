@@ -74,8 +74,8 @@ This repository was created as part of a portfolio setup task. The objective was
   - troubleshooting process
 
 ## 9. Committed and Pushed Changes
-- Committed the project files to Git
-- Pushed the repository to GitHub
+- Committed the README and project files using Git
+- Pushed the changes to the GitHub repository
 
 ---
 
@@ -116,7 +116,7 @@ I searched:
 - 'how to login to Codex on Cursor'
 I also watched a tutorial video that helped me understand the authentication flow. It was not the video I was looking for, but it helped me figure things out until I successfully logged in using my ChatGPT/OpenAI account.
 
-—--
+---
 
 ## Issue 5: Unable to Log In to Claude Code
 I was unable to log in to Claude Code inside Cursor.
@@ -126,13 +126,21 @@ After troubleshooting and researching the issue, I learned that logging in to Cl
 
 ---
 
-##Issue 6: Committing and pushing changes to GitHub 
+## Issue 6: Committing and Pushing Changes to GitHub
+
 I was initially unsure how to commit and push changes to GitHub from Cursor.
 
-###Solution
-I searched Google for tutorials on: 
+### Solution
+I searched Google for tutorials on:
 - 'how to commit to GitHub from Cursor'
 - 'how to push to GitHub from Cursor'
+
+Although I found several step-by-step guides, I still found the process confusing. I then asked ChatGPT:
+- 'What command should I give the AI agent to commit and push the changes to GitHub?'
+
+I copied and pasted one of the suggested commands into the AI agent. The agent successfully committed my changes, but it was unable to push them to the GitHub remote repository.
+
+To complete the process, I manually clicked the 'Push' button in the Source Control panel inside Cursor, and the push was completed successfully.
 
 ---
 
