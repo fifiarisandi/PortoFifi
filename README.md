@@ -42,15 +42,19 @@ This repository was created as part of a portfolio setup task. The objective was
 ## 4. Signed In to Codex
 - Opened the Command Palette using:
   - 'Cmd + Shift + P'
+- Typed:
+  - 'Codex' 
 - Selected:
-  - 'Open Codex'
+  - 'Codex: Open in Side Bar'
 - Signed in using my ChatGPT/OpenAI account
 - Successfully logged in to Codex on Cursor
 
 ## 5. Attempted to Sign In to Claude Code
 - Opened the Command Palette
+- Typed:
+  - 'Claude'
 - Selected:
-  - 'Open Claude Code'
+  - 'Claude Code: Open in Side Bar'
 - Attempted to sign in using ClaudeAI
 - Learned that logging in to Claude Code requires a Claude Max or Claude Pro subscription
 
@@ -122,7 +126,7 @@ I also watched a tutorial video that helped me understand the authentication flo
 I was unable to log in to Claude Code inside Cursor.
 
 ### Solution
-After troubleshooting and researching the issue, I learned that logging in to Claude Code requires a Claude Max or Claude Pro subscription, which I currently do not have.
+After trying twice, I learned that logging in to Claude Code requires a Claude Max or Claude Pro subscription, which I currently do not have.
 
 ---
 
