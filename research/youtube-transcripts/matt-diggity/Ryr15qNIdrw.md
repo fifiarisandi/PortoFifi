@@ -1,4 +1,4 @@
-# Ryr15qNIdrw
+# How I make UNDETECTABLE AI Content (that Google Loves)
 <!-- Title unavailable; using video ID as placeholder -->
 **Channel:** matt-diggity
 **URL:** https://www.youtube.com/watch?v=Ryr15qNIdrw
