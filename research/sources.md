@@ -45,6 +45,13 @@ The WordPress education platform boasts 1M subscribers on YouTube. Beyond core W
 
 ---
 
+### HubSpot Marketing
+- **YouTube:** https://www.youtube.com/@HubSpotMarketing
+
+HubSpot's marketing channel covers their Content Hub platform, which is built around AI-powered content production for B2B teams; things like turning one blog post into social posts, emails, and landing pages automatically. Felt like a good fit because it's not just talking about AI content production as a concept, it's literally the product. 
+
+---
+
 ### Edward Sturm
 - **YouTube:** https://www.youtube.com/@buildinpublic
 - **LinkedIn:** https://www.linkedin.com/in/edward-sturm/
@@ -53,31 +60,10 @@ Edward Sturm has done SEO consulting for companies like Microsoft, Procter & Gam
 
 ---
 
-### Rand Fishkin
-- **LinkedIn:** https://www.linkedin.com/in/randfishkin/
-
-Co-founder and CEO of SparkToro, and former co-founder/CEO of Moz where he basically helped define modern SEO education through Whiteboard Friday. His current thesis is that AI Overviews and zero-click search are breaking the old traffic-and-attribution playbook; he argues brands need to build influence on LinkedIn, YouTube, Reddit, and in LLM answers instead of chasing clicks. One of the more contrarian, data-backed voices on where AI is taking SEO.
-
----
-
 ### Andy Crestodina
 - **LinkedIn:** https://www.linkedin.com/in/andycrestodina/
 
 Andy Crestodina is co-founder and CMO of Orbit Media Studios, and an award-winning digital marketer frequently cited by Semrush and other industry sources as a top content marketing authority. He regularly shares his approach on LinkedIn and as an invited speaker: grounded in data-driven strategies, smart use of AI, and a sharp read on audience behavior.
-
----
-
-### Eli Schwartz
-- **LinkedIn:** https://www.linkedin.com/in/schwartze/
-
-Author of *Product-Led SEO* and independent SEO consultant with clients including Tinder, Coinbase, LinkedIn, and Anthropic. Offers a counterintuitive take that AI should be used to understand users, not just produce content, making his perspective a valuable critical voice within the topic.
-
----
-
-### Kevin Indig
-- **LinkedIn:** https://www.linkedin.com/in/kevinindig/
-
-Kevin Indig is a former SEO/Growth lead at Shopify, G2, and Atlassian, who's now an independent advisor to companies including Meta, Ramp, and Upwork. Publishes the Growth Memo newsletter (26,000+ subscribers) covering AI-driven search strategy and organic growth. His content sits at the intersection of SEO, AI Overviews, and AEO.
 
 ---
 

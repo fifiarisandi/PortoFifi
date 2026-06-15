@@ -1,7 +1,10 @@
 # Andy Crestodina — LinkedIn Posts
 
 ## Post 1 — June 11, 2026
-**Link:** https://www.linkedin.com/posts/andycrestodina_aicontentstrategy-contentmarketing-ugcPost-7470586404641615872-VRn9/
+
+**Link:** [https://www.linkedin.com/posts/andycrestodina_aicontentstrategy-contentmarketing-ugcPost-7470586404641615872-VRn9/](https://www.linkedin.com/posts/andycrestodina_aicontentstrategy-contentmarketing-ugcPost-7470586404641615872-VRn9/)
+
+
 **Format:** Text
 
 Trick question: "Do you use AI for content marketing?"
@@ -41,7 +44,10 @@ And big thanks to my friend and collaborator Liza Adams. Liza is a leader in thi
 ---
 
 ## Post 2 — June 11, 2026
-**Link:** https://www.linkedin.com/posts/andycrestodina_cmworld-share-7470609610840649730-j3CM/
+
+**Link:** [https://www.linkedin.com/posts/andycrestodina_cmworld-share-7470609610840649730-j3CM/](https://www.linkedin.com/posts/andycrestodina_cmworld-share-7470609610840649730-j3CM/)
+
+
 **Format:** Event announcement
 
 Thrilled to be part of the speaker lineup at #CMWorld 2026! 🚀
@@ -56,7 +62,7 @@ So join me in Denver!
 
 ...an easy flight from anywhere. ✈
 
-Register here 👉 https://cmi.media/cmw26
+Register here 👉 [https://cmi.media/cmw26](https://cmi.media/cmw26)
 (CRESTODINA200 knocks $200 off the ticket)
 
 See you in October!

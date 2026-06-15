@@ -1,7 +1,10 @@
 # Brendan Hufford — LinkedIn Posts
 
 ## Post 1 — June 9, 2026
-**Link:** https://www.linkedin.com/posts/brendanhufford_the-most-dangerous-thing-you-can-do-right-share-7469750675682246656--fTO/
+
+**Link:** [https://www.linkedin.com/posts/brendanhufford_the-most-dangerous-thing-you-can-do-right-share-7469750675682246656--fTO/](https://www.linkedin.com/posts/brendanhufford_the-most-dangerous-thing-you-can-do-right-share-7469750675682246656--fTO/)
+
+
 **Format:** Text – Case Study
 
 The most dangerous thing you can do right now is study Cursor.
@@ -22,7 +25,10 @@ PS - seriously. This company does so much cool ish that every marketer should st
 ---
 
 ## Post 2 — June 8, 2026
-**Link:** https://www.linkedin.com/posts/brendanhufford_every-piece-of-lazy-ai-content-says-the-same-share-7464727802991284224-dEnW/
+
+**Link:** [https://www.linkedin.com/posts/brendanhufford_every-piece-of-lazy-ai-content-says-the-same-share-7464727802991284224-dEnW/](https://www.linkedin.com/posts/brendanhufford_every-piece-of-lazy-ai-content-says-the-same-share-7464727802991284224-dEnW/)
+
+
 **Format:** Text
 
 Every piece of lazy AI content says the same thing to your reader: your time is worth less than mine.

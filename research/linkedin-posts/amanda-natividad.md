@@ -1,7 +1,10 @@
 # Amanda Natividad — LinkedIn Posts
 
 ## Post 1 — June 12, 2026
-**Link:** https://www.linkedin.com/posts/amandanat_aeo-grader-2026-share-7470862206637891584-oOQy/
+
+**Link:** [https://www.linkedin.com/posts/amandanat_aeo-grader-2026-share-7470862206637891584-oOQy/](https://www.linkedin.com/posts/amandanat_aeo-grader-2026-share-7470862206637891584-oOQy/)
+
+
 **Format:** Text (sponsored)
 
 "What's our AI visibility like?"
@@ -38,14 +41,17 @@ Then run this analysis again in 1-2 months to see what moved.
 
 HubSpot AEO Grader is a free way to see how your brand shows up across AI tools — what's resonating, and what you still need to clarify.
 
-Find out your brand's AI visibility score here: https://lnkd.in/gzBjS6Tt
+Find out your brand's AI visibility score here: [https://lnkd.in/gzBjS6Tt](https://lnkd.in/gzBjS6Tt)
 
 #ad #HubSpotMediaPartner
 
 ---
 
 ## Post 2 — June 11, 2026
-**Link:** https://www.linkedin.com/posts/amandanat_when-google-stops-sending-clicks-what-still-share-7470351263595941888-512_/
+
+**Link:** [https://www.linkedin.com/posts/amandanat_when-google-stops-sending-clicks-what-still-share-7470351263595941888-512_/](https://www.linkedin.com/posts/amandanat_when-google-stops-sending-clicks-what-still-share-7470351263595941888-512_/)
+
+
 **Format:** Text
 
 68% of Google searches now end without a click... to *anywhere.*
@@ -63,6 +69,7 @@ You don't just need to "get the click."
 You need to become the brand people and machines look for by name.
 
 I wrote up what I'd actually do about it:
+
 - who's still winning Google's clicks, and why it's not just "better content"
 - why AI-referred visitors may be fewer but more valuable
 - why branded search, owned assets, and correlation dashboards matter more than traffic charts
@@ -70,14 +77,17 @@ I wrote up what I'd actually do about it:
 
 I regret to inform you that clicks probably aren't coming back. But you can build marketing that still works when they don't.
 
-Full piece here: https://lnkd.in/gDkk8i-N
+Full piece here: [https://lnkd.in/gDkk8i-N](https://lnkd.in/gDkk8i-N)
 
 🎧 And I also just dropped a bonus Field Notes episode of the Zero Click Marketing podcast if you'd rather listen than read.
 
 ---
 
 ## Post 3 — June 10, 2026
-**Link:** https://www.linkedin.com/posts/amandanat_everyone-got-told-to-10x-their-content-with-share-7469961075548041217-0MwT/
+
+**Link:** [https://www.linkedin.com/posts/amandanat_everyone-got-told-to-10x-their-content-with-share-7469961075548041217-0MwT/](https://www.linkedin.com/posts/amandanat_everyone-got-told-to-10x-their-content-with-share-7469961075548041217-0MwT/)
+
+
 **Format:** Text
 
 Everyone got told to 10x their content with AI.
