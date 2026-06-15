@@ -38,6 +38,11 @@ VIDEOS = {
         "https://www.youtube.com/watch?v=cxa0dlnElc8",
         "https://www.youtube.com/watch?v=dLXZ3FKWBeE",
     ],
+    "edward-sturm": [
+        "https://www.youtube.com/watch?v=vJZH0V0sJtM",
+        "https://www.youtube.com/watch?v=ckSHSIPNDb8",
+        "https://www.youtube.com/watch?v=t8CoElpldtk",
+    ],
 }
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "research" / "youtube-transcripts"
