@@ -43,6 +43,11 @@ VIDEOS = {
         "https://www.youtube.com/watch?v=ckSHSIPNDb8",
         "https://www.youtube.com/watch?v=t8CoElpldtk",
     ],
+    "hubspot-marketing": [
+        "https://www.youtube.com/watch?v=XQL6zV8aRFk",
+        "https://www.youtube.com/watch?v=kuhhJ4PA8gk",
+        "https://www.youtube.com/watch?v=5Mlx-2kbAXs",
+    ],
 }
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "research" / "youtube-transcripts"
