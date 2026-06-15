@@ -30,6 +30,14 @@ VIDEOS = {
         "https://www.youtube.com/watch?v=4qCfvoQi758",
         "https://www.youtube.com/watch?v=a4jmsmdtvfo",
     ],
+    "ahrefs": [
+        "https://www.youtube.com/watch?v=5OccF4g0UKI",
+        "https://www.youtube.com/watch?v=ke-53zivOaw",
+    ],
+    "wpbeginner": [
+        "https://www.youtube.com/watch?v=cxa0dlnElc8",
+        "https://www.youtube.com/watch?v=dLXZ3FKWBeE",
+    ],
 }
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "research" / "youtube-transcripts"
