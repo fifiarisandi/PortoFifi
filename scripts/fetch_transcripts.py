@@ -22,6 +22,14 @@ VIDEOS = {
         "https://www.youtube.com/watch?v=Ryr15qNIdrw",
         "https://www.youtube.com/watch?v=MWCAVBXhcbU",
     ],
+    "nathan-gotch": [
+        "https://www.youtube.com/watch?v=WAXmw1ImBj4",
+        "https://www.youtube.com/watch?v=QqLhztKZeqU",
+    ],
+    "semrush": [
+        "https://www.youtube.com/watch?v=4qCfvoQi758",
+        "https://www.youtube.com/watch?v=a4jmsmdtvfo",
+    ],
 }
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "research" / "youtube-transcripts"
@@ -121,6 +129,23 @@ def build_markdown(
     )
 
 
+def transcript_exists(channel: str, video_id: str) -> bool:
+    """Return True if a transcript file for this video already exists."""
+    channel_dir = OUTPUT_DIR / channel
+    if not channel_dir.exists():
+        return False
+
+    video_id_path = channel_dir / f"{video_id}.md"
+    if video_id_path.exists():
+        return True
+
+    url_marker = f"watch?v={video_id}"
+    return any(
+        url_marker in path.read_text(encoding="utf-8")
+        for path in channel_dir.glob("*.md")
+    )
+
+
 def save_transcript(
     channel: str,
     video_id: str,
@@ -146,6 +171,7 @@ def save_transcript(
 
 def main() -> int:
     saved = 0
+    skipped = 0
     failed: list[str] = []
 
     for channel, urls in VIDEOS.items():
@@ -155,6 +181,11 @@ def main() -> int:
             except ValueError as exc:
                 print(f"WARNING: {exc}", file=sys.stderr)
                 failed.append(url)
+                continue
+
+            if transcript_exists(channel, video_id):
+                print(f"Skipping (already exists): {channel}/{video_id}")
+                skipped += 1
                 continue
 
             try:
@@ -182,6 +213,7 @@ def main() -> int:
     print()
     print("Summary")
     print(f"  Successfully saved: {saved}")
+    print(f"  Skipped (already exists): {skipped}")
     print(f"  Failed: {len(failed)}")
     if failed:
         print(f"  Failed video IDs/URLs: {', '.join(failed)}")
