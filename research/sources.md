@@ -45,11 +45,18 @@ The WordPress education platform boasts 1M subscribers on YouTube. Beyond core W
 
 ---
 
-### Julian Goldie
-- **YouTube:** https://www.youtube.com/@JulianGoldieSEO
-- **LinkedIn:** https://www.linkedin.com/in/juliangoldieseo/
+### Edward Sturm
+- **YouTube:** https://www.youtube.com/@buildinpublic
+- **LinkedIn:** https://www.linkedin.com/in/edward-sturm/
 
-Julian Goldie is the founder of Goldie Agency who's actively sharing insights on AI and SEO on YouTube and LinkedIn. He provides a lean-team, systems-first perspective on AI-powered content production, focused on cutting costs and scaling output without sacrificing performance.
+Edward Sturm has done SEO consulting for companies like Microsoft, Procter & Gamble, ADP, and Time Inc., and shares everything he's learning under "Build in Public." His recent content is squarely focused on AI SEO/GEO/AEO, how to get cited by ChatGPT and other LLMs, repurposing content across YouTube and social to maximize AI search visibility, and tactics for ranking pages using AI-assisted workflows. Good mix of tactical how-to and bigger-picture thinking on where search is headed.
+
+---
+
+### Rand Fishkin
+- **LinkedIn:** https://www.linkedin.com/in/randfishkin/
+
+Co-founder and CEO of SparkToro, and former co-founder/CEO of Moz where he basically helped define modern SEO education through Whiteboard Friday. His current thesis is that AI Overviews and zero-click search are breaking the old traffic-and-attribution playbook; he argues brands need to build influence on LinkedIn, YouTube, Reddit, and in LLM answers instead of chasing clicks. One of the more contrarian, data-backed voices on where AI is taking SEO.
 
 ---
 
@@ -78,3 +85,11 @@ Kevin Indig is a former SEO/Growth lead at Shopify, G2, and Atlassian, who's now
 - **LinkedIn:** https://www.linkedin.com/in/brendanhufford/
 
 Founder of Growth Sprints, a consulting practice focused on helping B2B SaaS companies scale SEO and content. Actively publishes on integrating AI into AEO and SEO workflows, and he's one of the B2B SaaS SEO practitioners on LinkedIn who is vocal about the practical realities of AI-powered content production.
+
+---
+
+### Amanda Natividad
+- **LinkedIn:** https://www.linkedin.com/in/amandanat/
+
+Chief Evangelist at SparkToro (working alongside Rand Fishkin) and founder of Zero Click Marketing, a podcast and consultancy built around a framework she co-created with Fishkin in 2022. She's well known for coining the term "zero-click content" and runs a newsletter with 60,000+ subscribers. Her and Fishkin's book, Zero Click Marketing, focused on building brand value without relying on website clicks, is releasing this fall, directly relevant to how content strategy needs to adapt as AI search reduces traditional traffic.
+
