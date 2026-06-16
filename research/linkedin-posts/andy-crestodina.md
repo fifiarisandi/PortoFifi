@@ -4,7 +4,6 @@
 
 **Link:** [https://www.linkedin.com/posts/andycrestodina_aicontentstrategy-contentmarketing-ugcPost-7470586404641615872-VRn9/](https://www.linkedin.com/posts/andycrestodina_aicontentstrategy-contentmarketing-ugcPost-7470586404641615872-VRn9/)
 
-
 **Format:** Text
 
 Trick question: "Do you use AI for content marketing?"
@@ -43,30 +42,11 @@ And big thanks to my friend and collaborator Liza Adams. Liza is a leader in thi
 
 ---
 
-## Post 2 — June 11, 2026
+## Article — June 11, 2026
 
-**Link:** [https://www.linkedin.com/posts/andycrestodina_cmworld-share-7470609610840649730-j3CM/](https://www.linkedin.com/posts/andycrestodina_cmworld-share-7470609610840649730-j3CM/)
+**Link:** [https://www.linkedin.com/pulse/how-when-use-ai-content-strategy-andy-crestodina-2euwc/](https://www.linkedin.com/pulse/how-when-use-ai-content-strategy-andy-crestodina-2euwc/)
+**Format:** LinkedIn Pulse article
 
+Long-form guide covering how and when to use AI across different stages of content strategy, including topic research, editing, CTA auditing, and performance analysis. 
 
-**Format:** Event announcement
-
-Thrilled to be part of the speaker lineup at #CMWorld 2026! 🚀
-
-Amazing to say this... this will be my 14th year teaching at this event.
-
-And amazing how much has changed in that time.
-
-This year, I'll be sharing my latest methods for creating high-performing content, from content strategy and ideation through AI editing, workflows and audits. You'll walk away with pages of notes and a repo of new prompts.
-
-So join me in Denver!
-
-...an easy flight from anywhere. ✈
-
-Register here 👉 [https://cmi.media/cmw26](https://cmi.media/cmw26)
-(CRESTODINA200 knocks $200 off the ticket)
-
-See you in October!
-
-Content Marketing Institute
-
-Thank you, Angelina for everything. 😄
+Companion piece to his June 11 LinkedIn post on the same topic.
