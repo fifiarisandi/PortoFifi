@@ -76,3 +76,49 @@ Every week, a Claude skill integrated with Fathom's MCP pulls all my calls from 
 It analyzes them using Erica Schneider's MP4 process and reminds me of all the smart stuff I said (that I already forgot because I've had 87 baseball and soccer games in that timeframe).
 
 I'm using AI to create better. Not to care less.
+
+## Post 3 — May 26, 2026
+**Link:** https://www.linkedin.com/posts/brendanhufford_the-customer-journey-youre-writing-content-share-7449855590228590594-TUnK/
+
+**Format:** Text – Study Report
+
+The "customer journey" you're writing content for?
+
+Try 10 stakeholders, 88 touches, and 326 days to revenue.
+
+Compared to last year?
+
++3 more stakeholders
++12 more touchpoints
++44 days to revenue for SMB
+
+I've lost count of how many times I've seen execs describe the marketing "funnel" as if it's neat, clean, and linear: one person, one problem, one path to purchase.
+
+But Dreamdata data shows a different reality:
+- 10 decision-makers are involved in the average B2B deal.
+- There are 88 touches across 4 different channels.
+- It can take 326 days from first impression to revenue for larger organizations.
+
+Here's what that means for us on the organic/content side:
+
+1. You're not writing for a single "persona." You're writing for a buying committee.
+2. You can't expect one ebook or webinar to move the needle.
+3. You can't judge success in weeks.
+
+AKA - STOP TRYING TO SHOW ROI IN QUARTER.
+
+Real influence builds over months (sometimes a year).
+
+Real talk: most of us are about to start Q4.
+
+This means gearing up for some serious reporting.
+
+You need to get this data in front of your leadership team BEFORE then.
+
+Because even if you're doing the best work of your life… the illusion that's been sold to your board and exec team that buyers move through it in a straight line can still derail your work.
+
+If you want to build your content strategy for reality, it has to be focused on the messy middle.
+
+Calling it a funnel is polite. In reality, it's a 88-touch pinball machine.
+
+Get the full report 👇
