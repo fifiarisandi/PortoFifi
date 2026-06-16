@@ -45,6 +45,7 @@ And big thanks to my friend and collaborator Liza Adams. Liza is a leader in thi
 ## Article — June 11, 2026
 
 **Link:** [https://www.linkedin.com/pulse/how-when-use-ai-content-strategy-andy-crestodina-2euwc/](https://www.linkedin.com/pulse/how-when-use-ai-content-strategy-andy-crestodina-2euwc/)
+
 **Format:** LinkedIn Pulse article
 
 Long-form guide covering how and when to use AI across different stages of content strategy, including topic research, editing, CTA auditing, and performance analysis. 
