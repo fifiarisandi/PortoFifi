@@ -21,6 +21,7 @@ VIDEOS = {
     "matt-diggity": [
         "https://www.youtube.com/watch?v=Ryr15qNIdrw",
         "https://www.youtube.com/watch?v=MWCAVBXhcbU",
+        "https://www.youtube.com/watch?v=CPo-6IDICAE",
     ],
     "nathan-gotch": [
         "https://www.youtube.com/watch?v=WAXmw1ImBj4",
