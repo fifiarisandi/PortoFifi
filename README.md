@@ -231,7 +231,7 @@ research/
 
 ├── sources.md — full list of experts with links and annotations
 
-├── youtube-transcripts/ — transcripts organized by channel
+├── youtube-transcripts/ — transcripts organized by channel, one file per video
 
  │   ├── matt-diggity/
 
