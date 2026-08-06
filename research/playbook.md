@@ -74,6 +74,17 @@ As much as I admire Andy's approach, I side with Matt here. AI can absolutely wr
 
 ### 1. Edward Sturm's AI buzzword avoidance list
 
-**What was recommended:** Edward Sturm, citing Leila Hormozi, suggests avoiding a specific list of words and phrases associated with AI-generated content — including "delve into," "this signals/underscores," "navigate complexities," "synergies," "leverage," "holistic," transition words like "moreover" and "furthermore," the bolded-word-colon bullet format, corporate therapist voice, and generic conclusions. He also references a broader ChatGPT buzzword list (delve, tapestry, landscape, foster, elevate, etc.), noting that one instance is acceptable but multiple together signals obvious AI writing.
+**What was recommended:** Edward Sturm, citing Leila Hormozi, suggests avoiding a specific list of words and phrases associated with AI-generated content, including "delve into," "this signals/underscores," "navigate complexities," "synergies," "leverage," "holistic," transition words like "moreover" and "furthermore," the bolded-word-colon bullet format, corporate therapist voice, and generic conclusions. He also references a broader ChatGPT buzzword list (delve, tapestry, landscape, foster, elevate, etc.), noting that one instance is acceptable but multiple together signals obvious AI writing.
 
-**Why I rejected it:** Most of the words on this list were widely used in professional content long before AI existed — which is arguably why LLMs picked them up in the first place. Avoiding them wholesale because "AI uses them a lot" is not a strong enough reason on its own. A word isn't bad because an AI uses it; it's bad if it makes content vague, hollow, or harder to read. I'd accept this recommendation if the reasoning were framed around readability and content quality — and in some cases it is — but as a blanket avoidance list, it risks making writers self-conscious about legitimate vocabulary rather than focused on what actually matters: clarity, specificity, and genuine insight.
+**Why I rejected it:** Most of the words on this list were widely used in professional content long before AI existed, which is arguably why LLMs picked them up in the first place. Avoiding them wholesale because "AI uses them a lot" is not a strong enough reason on its own. A word isn't bad because an AI uses it; it's bad if it makes content vague, hollow, or harder to read. I'd accept this recommendation if the reasoning were framed around readability and content quality, and in some cases it is, but as a blanket avoidance list, it risks making writers self-conscious about legitimate vocabulary rather than focused on what actually matters: clarity, specificity, and genuine insight.
+
+
+## Weaknesses of This Playbook
+
+- **Incomplete by design:** This playbook is a research snapshot, not a comprehensive SOP. It captures selected expert perspectives and should not be treated as a standalone guide to AI-powered SEO content production.
+- **Limited B2B SaaS specificity:** Most recommendations here apply to AI-powered content production broadly. Not all of them have been validated in a B2B SaaS context specifically, and some may require significant adaptation before they're implementable for that niche.
+
+## Who I Would NOT Recommend Following and Why
+
+**WPBeginner** — unless you are a WordPress user. Their content is platform-specific by design, i.e., tutorials, plugins, and workflows built around WordPress features. That's entirely appropriate for their audience, but it means most of their advice doesn't transfer to non-WordPress environments. Following them without using WordPress is simply not a good use of your attention.
+
