@@ -78,6 +78,19 @@ As much as I admire Andy's approach, I side with Matt here. AI can absolutely wr
 
 **Why I rejected it:** Most of the words on this list were widely used in professional content long before AI existed, which is arguably why LLMs picked them up in the first place. Avoiding them wholesale because "AI uses them a lot" is not a strong enough reason on its own. A word isn't bad because an AI uses it; it's bad if it makes content vague, hollow, or harder to read. I'd accept this recommendation if the reasoning were framed around readability and content quality, and in some cases it is, but as a blanket avoidance list, it risks making writers self-conscious about legitimate vocabulary rather than focused on what actually matters: clarity, specificity, and genuine insight.
 
+## My Original Ideas
+
+**A closed-loop AI content workflow using Perplexity and ChatGPT**
+
+Most AI content workflows treat research and writing as separate, disconnected steps. My idea is to close the loop by making the research document both the input and the fact-checking benchmark.
+
+The workflow:
+1. Use Perplexity to research the topic and compile all relevant sources, data points, and references into a single document
+2. Feed that document into ChatGPT along with a detailed content brief — instruct it to use the research document as the only source of truth and not to hallucinate beyond it
+3. Iterate on the draft until the output meets quality standards, then consolidate into a final document
+4. Return to Perplexity, attach the final output, and ask it to cross-check every claim against the original research document — flagging anything inaccurate or unsupported
+
+The key insight is using Perplexity twice: once as a research engine at the start, and again as an accuracy auditor at the end. This creates a self-contained quality control loop that doesn't rely on the writer manually fact-checking every claim — which is where most AI content workflows break down.
 
 ## Weaknesses of This Playbook
 
