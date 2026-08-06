@@ -14,7 +14,7 @@
 (source: Ahrefs, [https://www.youtube.com/watch?v=5OccF4g0UKI](https://www.youtube.com/watch?v=5OccF4g0UKI), 13.05.2026)
 - Refresh sleeper pages. These are pages on your site that used to rank well, but have slowly declined over time. Because freshness is such a strong signal for AI citations, updating these pages can be one of the fastest ways to gain AI visibility.
 (source: Ahrefs, [https://www.youtube.com/watch?v=5OccF4g0UKI](https://www.youtube.com/watch?v=5OccF4g0UKI), 13.05.2026)
-- Don't prompt ChatGPT to "write an SEO optimized blog post" and publish — this violates E-E-A-T and Google's AI spam guidelines.
+- Don't prompt ChatGPT to "write an SEO optimized blog post" and publish, this violates E-E-A-T and Google's AI spam guidelines.
 (source: WPBeginner, [https://www.youtube.com/watch?v=cxa0dlnElc8](https://www.youtube.com/watch?v=cxa0dlnElc8), 17.03.2025)
 - Draft prompt specifies: conversational empathetic tone, 8th-grade reading level, 4–5 sentences max per paragraph, no excessive bullet points, goal is helpful not ranking.
 (source: WPBeginner, [https://www.youtube.com/watch?v=cxa0dlnElc8](https://www.youtube.com/watch?v=cxa0dlnElc8), 17.03.2025)
@@ -28,8 +28,10 @@
 (source: Andy Crestodina, [https://www.orbitmedia.com/blog/ai-content-strategy/](https://www.orbitmedia.com/blog/ai-content-strategy/), 08.06.2026)
 - The three types of content that consistently outperform all others: original research (new data), strong opinion (thought leadership), and topics not yet covered. The lowest performers are generic how-to articles with no unique data or perspective.
 (source: Andy Crestodina, [https://www.orbitmedia.com/blog/ai-content-strategy/](https://www.orbitmedia.com/blog/ai-content-strategy/), 08.06.2026)
-- Align topics with channels: search users are busy (want answers), social users are bored (want to be surprised) — different content types perform better in different channels.
+- Align topics with channels: search users are busy (want answers), social users are bored (want to be surprised), different content types perform better in different channels.
 (source: Andy Crestodina, [https://www.orbitmedia.com/blog/ai-content-strategy/](https://www.orbitmedia.com/blog/ai-content-strategy/), 08.06.2026)
+- Google rewards high-quality content regardless of production method; spam is content made primarily for search engines, whether by humans or AI.
+(source: Matt Diggity, https://www.youtube.com/watch?v=Ryr15qNIdrw, 08.03.2023)
 
 ## Where Experts Disagree
 
@@ -66,4 +68,12 @@ I agree with Amanda here, these days we can't rely on clicks and traffic for con
 **Matt Diggity recommends:** AI should generate the bulk of article content. Build entire sites with AI-written articles, use humanizing prompts and Surfer optimization, and scale to hundreds of posts. The goal is making AI output pass as human and rank.
 
 **My take:**
-As much as I enjoy reading Andy's content and love all the insights he's shared, I got to agree with Matt here. We can utilize AI to write content from scratch. It's all about prompting. Great content can be created by AI depending on the prompt given. 
+As much as I enjoy reading Andy's content and love all the insights he's shared, I got to agree with Matt here. We can utilize AI to write content from scratch. It's all about prompting and iterating. Great content can be created by through great prompts and adequate iterations. 
+
+## What I Rejected and Why
+
+### 1. Edward Sturm's AI buzzword avoidance list
+
+**What was recommended:** Edward Sturm, citing Leila Hormozi, suggests avoiding a specific list of words and phrases associated with AI-generated content — including "delve into," "this signals/underscores," "navigate complexities," "synergies," "leverage," "holistic," transition words like "moreover" and "furthermore," the bolded-word-colon bullet format, corporate therapist voice, and generic conclusions. He also references a broader ChatGPT buzzword list (delve, tapestry, landscape, foster, elevate, etc.), noting that one instance is acceptable but multiple together signals obvious AI writing.
+
+**Why I rejected it:** Most of the words on this list were widely used in professional content long before AI existed — which is arguably why LLMs picked them up in the first place. Avoiding them wholesale because "AI uses them a lot" is not a strong enough reason on its own. A word isn't bad because an AI uses it; it's bad if it makes content vague, hollow, or harder to read. I'd accept this recommendation if the reasoning were framed around readability and content quality — and in some cases it is — but as a blanket avoidance list, it risks making writers self-conscious about legitimate vocabulary rather than focused on what actually matters: clarity, specificity, and genuine insight.
