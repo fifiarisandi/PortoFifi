@@ -44,7 +44,7 @@
 **Matt Diggity recommends:** Determine optimal article length by analyzing top-ranking competitors' word counts (via Detailed plugin) and matching their heading structure. Outline length and word count are set before AI generation begins.
 
 **My take:**
-I agree with Ahrefs since it's backed by research. Also, based on  my experience, the AI-cited content are always the ones answering the questions precisely. Some of those cited content are long-form articles, but some are FAQs content that are rarely very long. 
+I side with Ahrefs; the data is clear, and it matches my own observation that AI tends to cite content that answers questions precisely, whether that's a long-form article or a short FAQ. Word count is a byproduct of covering a topic well, not a target to hit. 
 
 ### 2. What should the primary SEO content strategy be in the AI search era?
 
@@ -57,7 +57,7 @@ I agree with Ahrefs since it's backed by research. Also, based on  my experience
 **Ahrefs recommends (partial third perspective):** Informational blog content is losing clicks to AI Overviews (30%+ drops), but free tools (calculators, checkers, converters) still send traffic AI hasn't absorbed. Pivot effort toward interactive tool pages, not more articles.
 
 **My take:**
-I agree with Amanda here, these days we can't rely on clicks and traffic for conversion. I think all of us would admit that the answers AI provide at the top of SERP are more convenient than having to click links, read, and find the answers on our own. That's why just as Amanda said, we need to shift our strategy to be the brand that not only people would search and find, but machine as well. 
+I side with Amanda. We've all felt it, AI answers at the top of search results are simply more convenient than clicking through, reading, and hunting for the answer yourself. Traffic as a metric is losing its meaning. The real game now is becoming the brand both people and machines reach for by name, and that requires a fundamentally different content strategy than publishing more articles. 
 
 ### 3. Should AI write full articles at all?
 
@@ -68,7 +68,7 @@ I agree with Amanda here, these days we can't rely on clicks and traffic for con
 **Matt Diggity recommends:** AI should generate the bulk of article content. Build entire sites with AI-written articles, use humanizing prompts and Surfer optimization, and scale to hundreds of posts. The goal is making AI output pass as human and rank.
 
 **My take:**
-As much as I enjoy reading Andy's content and love all the insights he's shared, I got to agree with Matt here. We can utilize AI to write content from scratch. It's all about prompting and iterating. Great content can be created by through great prompts and adequate iterations. 
+As much as I admire Andy's approach, I side with Matt here. AI can absolutely write content from scratch; the quality ceiling is determined by how well you prompt and how rigorously you iterate. Great prompts and adequate revision cycles can produce great content. 
 
 ## What I Rejected and Why
 
